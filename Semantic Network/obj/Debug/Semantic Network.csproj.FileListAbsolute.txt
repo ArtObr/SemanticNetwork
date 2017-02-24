@@ -1,0 +1,21 @@
+c:\users\артем\documents\visual studio 2015\Projects\Semantic Network\Semantic Network\bin\Debug\Semantic Network.exe.config
+c:\users\артем\documents\visual studio 2015\Projects\Semantic Network\Semantic Network\bin\Debug\Semantic Network.exe
+c:\users\артем\documents\visual studio 2015\Projects\Semantic Network\Semantic Network\bin\Debug\Semantic Network.pdb
+c:\users\артем\documents\visual studio 2015\Projects\Semantic Network\Semantic Network\obj\Debug\Semantic Network.csprojResolveAssemblyReference.cache
+c:\users\артем\documents\visual studio 2015\Projects\Semantic Network\Semantic Network\obj\Debug\Semantic_Network.Properties.Resources.resources
+c:\users\артем\documents\visual studio 2015\Projects\Semantic Network\Semantic Network\obj\Debug\Semantic Network.csproj.GenerateResource.Cache
+c:\users\артем\documents\visual studio 2015\Projects\Semantic Network\Semantic Network\obj\Debug\Semantic Network.exe
+c:\users\артем\documents\visual studio 2015\Projects\Semantic Network\Semantic Network\obj\Debug\Semantic Network.pdb
+c:\users\артем\documents\visual studio 2015\Projects\Semantic Network\Semantic Network\obj\Debug\Semantic_Network.SM.resources
+C:\Users\Артем\Desktop\Крутые проекты\Semantic Network\Semantic Network\bin\Debug\Semantic Network.exe.config
+C:\Users\Артем\Desktop\Крутые проекты\Semantic Network\Semantic Network\obj\Debug\Semantic Network.exe
+C:\Users\Артем\Desktop\Крутые проекты\Semantic Network\Semantic Network\obj\Debug\Semantic Network.pdb
+C:\Users\Artem\Desktop\Крутые проекты\Semantic Network(Standart tools use)\Semantic Network\bin\Debug\Semantic Network.exe.config
+C:\Users\Artem\Desktop\Крутые проекты\Semantic Network(Standart tools use)\Semantic Network\obj\Debug\Semantic Network.exe
+C:\Users\Artem\Desktop\Крутые проекты\Semantic Network(Standart tools use)\Semantic Network\obj\Debug\Semantic Network.pdb
+C:\Users\Artem\Desktop\Крутые проекты\Semantic Network(Standart tools use)\Semantic Network\bin\Debug\Semantic Network.exe
+C:\Users\Artem\Desktop\Крутые проекты\Semantic Network(Standart tools use)\Semantic Network\bin\Debug\Semantic Network.pdb
+C:\Users\Artem\Desktop\Крутые проекты\Semantic Network(Standart tools use)\Semantic Network\obj\Debug\Semantic Network.csprojResolveAssemblyReference.cache
+C:\Users\Artem\Desktop\Крутые проекты\Semantic Network(Standart tools use)\Semantic Network\obj\Debug\Semantic_Network.SM.resources
+C:\Users\Artem\Desktop\Крутые проекты\Semantic Network(Standart tools use)\Semantic Network\obj\Debug\Semantic_Network.Properties.Resources.resources
+C:\Users\Artem\Desktop\Крутые проекты\Semantic Network(Standart tools use)\Semantic Network\obj\Debug\Semantic Network.csproj.GenerateResource.Cache
